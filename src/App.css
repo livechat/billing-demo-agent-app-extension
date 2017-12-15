@@ -1,0 +1,43 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+p {
+  margin: 1em 0;
+}
+ul,
+ol {
+  margin-left: 20px;
+}
+ol li {
+  list-style: inside decimal;
+  margin: 0.5em 0;
+}
+
+.visitor-details li {
+  line-height: 2em;
+}
+.weather-icon {
+  vertical-align: middle;
+}
+
+.waiting-badge,
+.paid-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border: 2px solid #43a943;
+  border-radius: 3px;
+}
+.waiting-badge {
+  border-color: #888888;
+}
+.paid-badge {
+  border-color: #43a943;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid #999;
+  font-size: 16px;
+}

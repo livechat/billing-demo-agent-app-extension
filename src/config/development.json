@@ -1,0 +1,7 @@
+{
+  "app_client_id": "df209f566daf12c23fd7442df2df27c5",
+  "app_url": "https://localhost:3000",
+  "billing_api_url": "https://billing.livechatinc.com",
+  "weather_api_key": "323c60abc5d2158e859fb2d9e0d20f99",
+  "direct_charge_test": false
+}
